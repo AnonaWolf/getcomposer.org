@@ -1,5 +1,5 @@
-{
-    "require": {
+{ 
+    "require": { 
         "composer/composer": "^1.0@dev",
         "erusev/parsedown": "^1.0",
         "monolog/monolog": "^1.4",
